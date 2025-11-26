@@ -112,7 +112,7 @@ BUILD_BROKEN_USES_BUILD_COPY_HEADERS := true
 # Camera
 USE_DEVICE_SPECIFIC_CAMERA := true
 TARGET_PROCESS_SDK_VERSION_OVERRIDE := \
-    /system/bin/cameraserver=23
+    /system/bin/cameraserver=24
 TARGET_USES_MEDIA_EXTENSIONS := true
 
 # Charger
