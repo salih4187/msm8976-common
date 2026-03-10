@@ -1,0 +1,4 @@
+allow netmgrd {
+    sysfs
+    default_prop
+}:file read;
